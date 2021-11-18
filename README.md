@@ -24,9 +24,11 @@ a Mobile Net
 
 4-ComunicacaoUart.py - Arquivo referente a comunicaçao entre 2 hardwares
 
-5-bancofirebase.json - Arquivo com banco usado como teste no app![APPVERFRUIT](https://user-images.githubusercontent.com/78816148/142500292-43e723c4-1e34-4e96-a75d-0773ecd84bcc.png)
-
+5-bancofirebase.json - Arquivo com banco usado como teste no app!
 
 6-VERFruitsapp.aia - Arquivo referente ao app desenvolvido no MIT App Inventor
 
-A interface do app ficou da seguinte forma:
+A interface do app ficou da seguinte forma: 
+
+![APPVERFRUIT](https://user-images.githubusercontent.com/78816148/142500555-5356c8e9-64d7-4a47-8015-98f8b196a4e9.png)
+
