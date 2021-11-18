@@ -12,3 +12,7 @@ any refrigerator. This system will do an inference using neural networks and all
 know, by an interface of mobile application, the classification obtained. Moreover, provide
 tips on how to reuse these fruits, if they are at a high level of ripeness, from cooking recipes
 to fertilization. The product has reduced hardware size and usage flexibility.
+
+Os arquivos estqo divididos em: 
+1-ModelsvggandResnet.ipynb
+Este
