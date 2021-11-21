@@ -39,11 +39,10 @@ Abaixo estão videos do sistema funcionando:
 
 
 
-https://user-images.githubusercontent.com/78816148/142765228-971faa94-fd0c-46cd-a0a6-92aea9d7105e.mp4
+https://user-images.githubusercontent.com/78816148/142766258-c27f5ebd-01dc-496a-ba8b-cb02c5bb84a5.mp4
 
 
 
-https://user-images.githubusercontent.com/78816148/142765232-395ddb61-1ef3-4d4f-885f-1685132bfcb1.mp4
 
 
 
