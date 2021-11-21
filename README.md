@@ -32,3 +32,7 @@ A interface do app ficou da seguinte forma:
 
 ![APPVERFRUIT](https://user-images.githubusercontent.com/78816148/142500555-5356c8e9-64d7-4a47-8015-98f8b196a4e9.png)
 
+O dispositivo final ficou da seguinte forma:
+![WhatsApp Image 2021-11-19 at 05 11 43](https://user-images.githubusercontent.com/78816148/142765086-64cdc0b7-15dd-48f1-9214-6ff725a545d5.jpeg)
+
+
