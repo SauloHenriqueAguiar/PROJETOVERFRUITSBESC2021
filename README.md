@@ -1,4 +1,11 @@
 # PROJETOVERFRUITSBESC2021
+
+![WhatsApp Image 2021-11-21 at 11 35 21](https://user-images.githubusercontent.com/78816148/142766457-7c6b4de9-b5cd-4711-bac8-ff6f6614d010.jpeg)
+
+
+
+
+
 According to data, 49% of Brazilians throw food in the trash daily. In addition, there is a lot
 of phenomenon called &quot;refrigerator blindness&quot; where people ignore various foods that are
 present in the refrigerator, which leads to their rotting. Based on two problems: food waste
@@ -28,18 +35,22 @@ a Mobile Net
 
 6-VERFruitsapp.aia - Arquivo referente ao app desenvolvido no MIT App Inventor
 
-A interface do app ficou da seguinte forma: 
+
 
 
 
 O dispositivo final ficou da seguinte forma:
 ![WhatsApp Image 2021-11-19 at 05 11 43](https://user-images.githubusercontent.com/78816148/142765086-64cdc0b7-15dd-48f1-9214-6ff725a545d5.jpeg)
 
+
+
 Abaixo estão videos do sistema funcionando:
 
 
 
 https://user-images.githubusercontent.com/78816148/142766258-c27f5ebd-01dc-496a-ba8b-cb02c5bb84a5.mp4
+
+
 
 A interface do usuário(aplicativo Android) ficou  da seguinte forma(abaixo estão print das telas  do aplicativo em funcionamento):
 
