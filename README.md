@@ -20,7 +20,7 @@ know, by an interface of mobile application, the classification obtained. Moreov
 tips on how to reuse these fruits, if they are at a high level of ripeness, from cooking recipes
 to fertilization. The product has reduced hardware size and usage flexibility.
 
-Os arquivos estqo divididos em: 
+Os arquivos estão divididos em:
 
 1-ModelsvggandResnet.ipynb - Arquivo com modelos vgg e ResNet dos quais forqm comparadas as acuracias obtidas com 
 a Mobile Net
