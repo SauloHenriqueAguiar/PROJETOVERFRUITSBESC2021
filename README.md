@@ -35,4 +35,16 @@ A interface do app ficou da seguinte forma:
 O dispositivo final ficou da seguinte forma:
 ![WhatsApp Image 2021-11-19 at 05 11 43](https://user-images.githubusercontent.com/78816148/142765086-64cdc0b7-15dd-48f1-9214-6ff725a545d5.jpeg)
 
+Abaixo estão videos do sistema funcionando:
+
+
+
+https://user-images.githubusercontent.com/78816148/142765228-971faa94-fd0c-46cd-a0a6-92aea9d7105e.mp4
+
+
+
+https://user-images.githubusercontent.com/78816148/142765232-395ddb61-1ef3-4d4f-885f-1685132bfcb1.mp4
+
+
+
 
