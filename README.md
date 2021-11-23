@@ -50,6 +50,7 @@ Abaixo está imagem do sistema funcionando:
 
 
 
+
 A interface do usuário(aplicativo Android) ficou  da seguinte forma(abaixo estão print das telas  do aplicativo em funcionamento):
 
 ![APPVERFRUIT](https://user-images.githubusercontent.com/78816148/142500555-5356c8e9-64d7-4a47-8015-98f8b196a4e9.png)
