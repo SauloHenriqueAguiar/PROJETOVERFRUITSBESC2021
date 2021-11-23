@@ -44,11 +44,9 @@ O dispositivo final ficou da seguinte forma:
 
 
 
-Abaixo estão videos do sistema funcionando:
+Abaixo está imagem do sistema funcionando:
 
 
-
-https://user-images.githubusercontent.com/78816148/142766258-c27f5ebd-01dc-496a-ba8b-cb02c5bb84a5.mp4
 
 
 
