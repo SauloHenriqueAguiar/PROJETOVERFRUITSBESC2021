@@ -46,6 +46,7 @@ O dispositivo final ficou da seguinte forma:
 
 Abaixo está imagem do sistema funcionando:
 
+![WhatsApp Image 2021-11-23 at 19 11 32 (1)](https://user-images.githubusercontent.com/78816148/143137552-af88421c-ae54-4ff9-993f-848cef6384f5.jpeg)
 
 
 
