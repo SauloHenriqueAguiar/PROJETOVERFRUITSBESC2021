@@ -55,6 +55,8 @@ A interface do usuário(aplicativo Android) ficou  da seguinte forma(abaixo est�
 ![APPVERFRUIT](https://user-images.githubusercontent.com/78816148/142500555-5356c8e9-64d7-4a47-8015-98f8b196a4e9.png)
 
 
+Obtive a 3ª Colocação na competição, segue o certificado de participação:
+[part fruits.pdf](https://github.com/SauloHenriqueAguiar/PROJETOVERFRUITSBESC2021/files/7803944/part.fruits.pdf)
 
 
 
