@@ -55,7 +55,7 @@ A interface do usuário(aplicativo Android) ficou  da seguinte forma(abaixo est�
 ![APPVERFRUIT](https://user-images.githubusercontent.com/78816148/142500555-5356c8e9-64d7-4a47-8015-98f8b196a4e9.png)
 
 
-Consegui a 3ª posição na Competição da SBESC(Sociedade Brasileira de Computação), Abaixo o certificado de participação:
+Consegui a 3ª posição na Competição da SBESC/Sociedade Brasileira de Computação, abaixo o certificado de participação:
 
 ![certifiesc2](https://user-images.githubusercontent.com/78816148/147978600-b8cc4bd8-61d9-4671-b6c9-40def5e78937.jpg)
 
